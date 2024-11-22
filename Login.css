@@ -1,0 +1,245 @@
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+/* body contents */
+
+.screenbgcolor {
+    background-color: #faf9f6;
+}
+
+.loginhead {
+    color: #1e1e1e;
+    padding-left: 650px;
+    font-size: 36px;
+}
+
+.loginbody {
+
+    color: #1e1e1e;
+    padding-left: 460px;
+    font-size: 20px;
+}
+
+.boxrect {
+    align-items: center;
+}
+
+.boxemail {
+    font-family: poppins;
+    border-radius: 5px 5px 5px 5px;
+    width: 500px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+.boxpassword {
+    font-family: poppins;
+    border-radius: 5px 5px 5px 5px;
+    width: 500px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+
+.loginbutton {
+    background-color: #49B2D0;
+    color: #ffffff;
+    border-radius: 5px 5px 5px 5px;
+    height: 60px;
+    width: 500px;
+    font-family: poppins;
+    font-weight: bold;
+    outline-style: none;
+    border: none;
+}
+
+.cautionsignup {
+    font-family: poppins;
+    font-size: medium;
+    padding-left: 520px ;
+}
+
+.signupclick {
+    font-family: poppins;
+}
+
+.or {
+    font-family: poppins;
+    padding-left: 650px;
+    font-size: medium;
+}
+
+.continuewithgoogle {
+    font-family: poppins;
+    padding-left: 480px;
+    font-size: medium;
+}
+
+.continuewithfacebook {
+    font-family: poppins;
+    padding-left: 480px;
+    font-size: medium;
+}
+
+.continuewithtwitter {
+    font-family: poppins;
+    padding-left: 480px;
+    font-size: medium;
+}
+
+.gimg {
+    height: 20px;
+    width: 20px;
+}
+
+.fimg {
+    height: 20px;
+    width: 20px;
+}
+
+.timg {
+    height: 20px;
+    width: 20px;
+}
+
+.otherlogin {
+    padding-left: 100px;
+}
+
+
+/* Footer contents */
+
+
+.footerright {
+    margin-left: 100px;
+    color: #49B2D0;
+}
+
+.ftrrightc {
+    color: #49B2D0;
+    /* margin-left: 500px; */
+
+}
+
+.ftr {
+    background-color: #1e1e1e;
+    align-items: center;
+}
+
+.text-center {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ftrexplora {
+    margin-left: 70px;
+    color: #ffffff;
+    color: #49B2D0;
+    font-size: 48px;
+} 

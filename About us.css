@@ -1,0 +1,284 @@
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* body contents */
+
+.screenbgcolor {
+    background-color: #faf9f6;
+}
+
+.who {
+    font-family: poppins;
+    color: #1e1e1e;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.we {
+    font-family: poppins;
+    color: #49B2D0;
+}
+
+.are {
+    color: #1e1e1e;
+}
+
+.para {
+    font-family: poppins;
+    color: #1e1e1e;
+    font-weight: 600;
+
+}
+
+.logobody {
+    color: #1e1e1e;
+    font-weight: 700;
+    font-size: 50px;
+    padding-left: 300px;
+
+}
+
+.logospanbody {
+    color: #49B2D0;
+    font-weight: 700;
+    font-size: 50px;
+
+
+}
+
+
+.aboutimg1 {
+    margin-left: 120px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+
+.about1c {
+    padding-left: 100px;
+}
+
+.about1cinner {
+    padding-left: 70px;
+
+}
+
+.aboutimg2 {
+    margin-left: 50px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+.about2c {
+    padding-left: 50px;
+}
+
+.about2cinner {
+    padding-left: 60px;
+
+}
+
+.aboutimg3 {
+    margin-left: 50px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+.about3c {
+    padding-left: 60px;
+}
+
+.about3cinner {
+    padding-left: 90px;
+
+}
+
+.founderimg {
+    border-radius: 20px;
+    height: 510px;
+    width: 491px;
+}
+
+.founder {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.foundername {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.age {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.abtfounder {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.para {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer contents */
+
+
+.footerright {
+    margin-left: 100px;
+    color: #49B2D0;
+}
+
+.ftrrightc {
+    color: #49B2D0;
+    /* margin-left: 500px; */
+
+}
+
+.ftr {
+    background-color: #1e1e1e;
+    align-items: center;
+}
+
+.text-center {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ftrexplora {
+    margin-left: 70px;
+    color: #ffffff;
+    color: #49B2D0;
+    font-size: 48px;
+}

@@ -1,0 +1,220 @@
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* body contents */
+
+.headerc {
+    background-image: url(images/Du\ lac\ et.jpg);
+    height: 600px;
+
+}
+
+.resortname {
+    font-family: poppins;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.locationname {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.locationimg {
+    height: 30px;
+    width: 30px;
+}
+
+
+.checkin {
+    font-family: poppins;
+    border-radius: 10px;
+    width: 500px;
+    height: 60px;
+    padding-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    outline: none;
+
+}
+
+
+.checkout {
+    font-family: poppins;
+    border-radius: 10px;
+    width: 500px;
+    height: 60px;
+    padding-left: 20px;
+    text-decoration: none;
+    outline: none;
+
+}
+
+.roomsbookresort {
+    font-family: poppins;
+    border-radius: 10px;
+    width: 1020px;
+    height: 150px;
+    padding-left: 20px;
+    margin-right: 20px;
+    outline: none;
+}
+
+.bookingbutton {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: poppins;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 425px;
+    height: 60px;
+    border: none;
+    outline: none;
+
+}
+
+
+
+
+
+
+
+
+
+/* Footer contents */
+
+.footerright {
+    margin-left: 100px;
+    color: #49B2D0;
+}
+
+.ftrrightc {
+    color: #49B2D0;
+    /* margin-left: 500px; */
+
+}
+
+.ftr {
+    background-color: #1e1e1e;
+    align-items: center;
+}
+
+.text-center {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ftrexplora {
+    margin-left: 70px;
+    color: #ffffff;
+    color: #49B2D0;
+    font-size: 48px;
+}

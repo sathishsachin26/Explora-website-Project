@@ -1,0 +1,307 @@
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* body contents */
+
+.explore {
+    margin-left: 40PX;
+    border-radius: 5px;
+    font-family: Poppins;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+}
+
+.headerc {
+    background-image: url(images/Mountain\ beach\ img\ 1.jpg);
+    height: 500px;
+}
+
+.headertext {
+    
+    font-family: poppins;
+    font-size: 32px;
+    margin-left: 40px;
+    color: #ffffff;
+
+}
+
+.headerbody {
+    
+    font-family: poppins;
+    font-size: 20px;
+    padding-left: 40px;
+    color: #ffffff;
+}
+
+
+.stays {
+    font-family: poppins;
+    font-weight: 600;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    font-family: poppins;
+}
+
+.card {
+    width: 500px;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+
+.card img {
+    width: 100%;
+
+}
+
+.card-content {
+    padding: 16px;
+}
+
+.card-content .btn {
+    display: inline-block;
+    background-color: #49B2D0;
+    text-decoration: none;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: poppins;
+}
+
+.locationcard {
+    color: #939393;
+    font-size: 14px;
+}
+
+.tvfu {
+    font-family: poppins;
+
+}
+
+.tvfuimg1 {
+    margin-left: 120px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+
+.tvfu1c {
+   margin-right: 100px;
+}
+
+.tvfu1cinner {
+    margin-right: 50px;
+
+}
+
+
+.tvfuimg2 {
+    margin-left: 50px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+.tvfu2c {
+   margin-right: 100px;
+}
+
+tvfu2cinner {
+    margin-right: 100px;
+
+}
+
+.tvfuimg3 {
+    margin-left: 50px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+.tvfu3c {
+   margin-right: 100px;
+}
+
+tvfu3cinner {
+    margin-right: 100px;
+
+}
+
+.tvfuimg4 {
+    margin-left: 50px;
+    border-radius: 50%;
+    height: 135px;
+    width: 135px;
+}
+
+.tvfu4c {
+   margin-right: 100px;
+}
+
+tvfu4cinner {
+    margin-right: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Footer contents */
+
+
+.footerright {
+    margin-left: 100px;
+    color: #49B2D0;
+}
+
+.tvfu1c {
+    margin-left: 120px;
+}
+
+.tvfu1cinner {
+    margin-left: 50px;
+}
+
+.ftrrightc {
+    color: #49B2D0;
+    /* margin-left: 500px; */
+
+}
+
+.ftr {
+    background-color: #1e1e1e;
+    align-items: center;
+}
+
+.text-center {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ftrexplora {
+    margin-left: 70px;
+    color: #ffffff;
+    color: #49B2D0;
+    font-size: 48px;
+}
